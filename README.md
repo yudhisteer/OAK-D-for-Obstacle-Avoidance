@@ -1,4 +1,4 @@
-# OAK-D for Obstacle Avoidance
+# OAK-D for SLAM
 
 
 
